@@ -44,6 +44,7 @@ $(document).ready(function(e) {
 });
 </script>
 <h1>Hi Pramod</h1>
-<h2>Hellow Dilip</h2>
+<h2>Hello Dilip</h2>
+<h3>Hey Ramesh, How r u</h3>
 </body>
 </html>
